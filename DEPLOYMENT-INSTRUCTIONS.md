@@ -1,9 +1,9 @@
-# 🚀 TripShare Worldwide Deployment Instructions
+#  TripShare Worldwide Deployment Instructions
 
-## ✅ Frontend Deployed Successfully
+## Frontend Deployed Successfully
 Your React app is now live at: **https://lustrous-torrone-660a99.netlify.app**
 
-## 🔧 Next Steps for Backend Deployment
+##  Next Steps for Backend Deployment
 
 ### Option 1: Render (Recommended - Free Tier Available)
 
@@ -43,7 +43,7 @@ Your React app is now live at: **https://lustrous-torrone-660a99.netlify.app**
 2. Run: `heroku create tripshare-backend`
 3. Set environment variables with `heroku config:set`
 
-## 📋 Required Services Setup
+## Required Services Setup
 
 ### MongoDB Atlas (Database)
 1. Go to https://cloud.mongodb.com
@@ -58,7 +58,7 @@ Your React app is now live at: **https://lustrous-torrone-660a99.netlify.app**
 3. Get credentials from dashboard
 4. Use in environment variables
 
-## 🔄 After Backend Deployment
+## After Backend Deployment
 
 1. **Update Frontend API URL**:
    - Update `client/.env`: `REACT_APP_API_URL=https://your-render-app.onrender.com`
@@ -67,7 +67,7 @@ Your React app is now live at: **https://lustrous-torrone-660a99.netlify.app**
 2. **Update Backend CORS**:
    - Ensure your production frontend URL is in CORS origins
 
-## 🧪 Testing Checklist
+## Testing Checklist
 
 - [ ] Backend health check: `https://your-backend-url.onrender.com/api/health`
 - [ ] Frontend loads: `https://lustrous-torrone-660a99.netlify.app`
@@ -76,7 +76,7 @@ Your React app is now live at: **https://lustrous-torrone-660a99.netlify.app**
 - [ ] Post creation with images works
 - [ ] Social features (like, comment, follow) work
 
-## 📞 Need Help?
+##  Need Help?
 
 If you encounter issues:
 1. Check Render/Netlify logs
