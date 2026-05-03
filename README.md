@@ -4,28 +4,28 @@ A modern social media web application focused exclusively on sharing trip experi
 
 ## Features
 
-### 🌍 Trip-Focused Social Platform
+### Trip-Focused Social Platform
 - Share detailed trip experiences with photos and videos
 - Location-based posts with coordinates and place information
 - Trip categorization (solo, couple, family, friends, business, adventure, relaxation)
 - Budget tracking (budget, mid-range, luxury)
 - Trip ratings and reviews
 
-### 👥 Social Features
+### Social Features
 - User authentication and profiles
 - Follow/unfollow system
 - Like, comment, and share posts
 - User search and discovery
 - Profile customization with bio and location
 
-### 📱 Modern UI/UX
+### Modern UI/UX
 - Responsive design for all devices
 - Material-UI components
 - Image and video galleries
 - Real-time interactions
 - Beautiful animations and transitions
 
-### 🔍 Search & Discovery
+### Search & Discovery
 - Search posts by location, title, description, or tags
 - Search users by name, username, or location
 - Popular tags and trending content
