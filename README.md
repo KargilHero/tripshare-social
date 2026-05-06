@@ -1,7 +1,7 @@
 # TripShare - Social Media Platform for Travel Experiences
 
 A modern social media web application focused exclusively on sharing trip experiences, locations, images, and videos. Built with Node.js, Express, MongoDB, and React.
-
+bchgfvjhmjj,b,km
 ## Features
 
 ### Trip-Focused Social Platform
