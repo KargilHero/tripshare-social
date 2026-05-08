@@ -27,7 +27,6 @@ app.use(limiter);
 app.use(cors({
   origin: [
     process.env.CLIENT_URL || 'http://localhost:3000',
-    'http://192.168.29.90:3000',
     'https://delightful-torrone-660a99.netlify.app',
     /^http:\/\/192\.168\.\d{1,3}\.\d{1,3}:3000$/
   ],
