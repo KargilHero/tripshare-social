@@ -223,10 +223,6 @@ This creates an optimized build of the React app in the `client/build` folder.
 
 This project is licensed under the MIT License.
 
-## Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
 ---
 
 **Happy Traveling! 🌍✈️**
