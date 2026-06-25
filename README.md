@@ -4,7 +4,7 @@ A modern social media web application focused exclusively on sharing trip experi
 ## Project live at
 
 https://delightful-torrone-660a99.netlify.app/
-gdggdgdgdgdgdgdgggdeerrggg
+
 ## Features
 
 ### Trip-Focused Social Platform
