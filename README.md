@@ -2,7 +2,7 @@
 
 A modern social media web application focused exclusively on sharing trip experiences, locations, images, and videos. Built with Node.js, react.js 
 
-## Project live atSet
+## Project live at
 
 https://delightful-torrone-660a99.netlify.app
 
